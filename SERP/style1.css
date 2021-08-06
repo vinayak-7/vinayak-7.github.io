@@ -1,0 +1,61 @@
+body {
+    background-image: url('bg1.jpg');
+    background-size: 1300px 700px;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    color: goldenrod;
+    background-color: black;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
+
+#menu {
+    font-family: 'Behnschrift Condensed';
+    font-size: 14px;
+    color: black;
+    margin-left: 1200px;
+    margin-top: 20px;
+}
+
+#vsv {
+    width: 700px;
+    height: 35px;
+    border-radius: 5px;
+    font-family: 'Akaya Kanadaka';
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+#gobtn {
+    width: 100px;
+    height: 35px;
+    border-radius: 35px;
+    border: 1px solid blue;
+    background-color: white;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+#gobtn:hover {
+    width: 100px;
+    height: 35px;
+    color: white;
+    border-radius: 35px;
+    border: 1px;
+    background-color: deepskyblue;
+    font-size: 18px;
+}
