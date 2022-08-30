@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinayak-7
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning dsa
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me vinayak462000@gmail.com
 
